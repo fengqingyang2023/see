@@ -1,5 +1,13 @@
+斗鱼http://159.75.85.63:35455/douyu/
+斗鱼外网http://epg.112114.xyz/douyu/
+http://mmitv.top/test/douyu.php?id=
+虎牙http://8.137.57.240:81/hy.php?url=11601960（11601960即房间号）
+虎牙外网http://epg.112114.xyz/huya/11601960
 
 英字频道,#genre#
+优质短片合集,http://tc-tct.douyucdn2.cn/dyliveflv3a/8791622rqvGHoz6q.flv?wsAuth=f09a191d6f86c0555ce75efd51313c86&token=app-androidxlv-0-8791622-1f4a7dfc9ffa85dc0048e63724765ff366a07a81cfe2d91f&logo=0&expire=0&did=60ef2a49-d13f-4046-adad-0ecc5f41d0e6&ver=2.6.1&pt=1&st=3&sid=388808890&um=0&mcid2=0&origin=tct&mix=0&isp=
+优质短片合集,http://112.90.43.191/live/8791622rqvGHoz6q.flv?302_type=cold_aggr&_session_id=2378840044.n.cn-oey9nb.w7lc_782930&cb_retry=0&did=60ef2a49-d13f-4046-adad-0ecc5f41d0e6&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv3a%2F8791622rqvGHoz6q.flv%3FwsAuth%3Df09a191d6f86c0555ce75efd51313c86%26token%3Dapp-androidxlv-0-8791622-1f4a7dfc9ffa85dc0048e63724765ff366a07a81cfe2d91f%26logo%3D0%26expire%3D0%26did%3D60ef2a49-d13f-4046-adad-0ecc5f41d0e6%26ver%3D2.6.1%26pt%3D1%26st%3D3%26sid%3D388808890%26um%3D0%26mcid2%3D0%26origin%3Dtct%26mix%3D0%26isp%3D&isp=&logo=0&manage_ip=&mcid2=0&mix=0&node_id=&origin=tct&pro_type=http&pt=1&redirect_from=pod.cn-oey9nb.w7lc.nss&sid=388808890&st=3&token=app-androidxlv-0-8791622-1f4a7dfc9ffa85dc0048e63724765ff366a07a81cfe2d91f&um=0&ver=2.6.1&vhost=tc-tct.douyucdn2.cn&wsAuth=f09a191d6f86c0555ce75efd51313c86
+
 failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
 
@@ -81,8 +89,8 @@ cctv15,http://104.233.187.210/iptv/ysp.php?name=CCTV15
 风云音乐,http://104.233.187.210/iptv/ysp.php?name=CCTV风云音乐
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云音乐,http://61.185.200.213:55555/rtp/239.111.205.69:5140
-斗鱼音乐一FHD,http://mmitv.top/test/douyu.php?id=9588891
-斗鱼点歌台,http://mmitv.top/test/douyu.php?id=3186217
+斗鱼音乐一FHD,http://159.75.85.63:35455/douyu/9588891
+斗鱼点歌台,http://159.75.85.63:35455/douyu/3186217
 vchannel,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 音悦台点歌,https://epg.pw/stream/7a700d96ded14e3e47475d5fb6171e8fd90405389c3794f24fbe6e0f7824b7e6.ctv
 
@@ -120,6 +128,8 @@ japanmusic,https://epg.pw/stream/a39634f59279a0997a23dc790f27f00c960370c53a7e684
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 HoyTV,http://51.89.21.73:27347/livehttpplay?channel_id=20152 
+
+武术世界, http://111.175.30.54:8888/rtp/239.69.1.47:9922
 
 新闻,#genre#
 cna,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -226,6 +236,54 @@ failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 漫游世界,http://39.134.136.161:6610/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3$ITV
 漫游世界,http://39.134.136.161:6610/000000001000/2000000004000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3$ITV
 
+斗鱼影视,#genre#
+欧美,http://159.75.85.63:35455/douyu/36337
+欧美房,http://159.75.85.63:35455/douyu/20415
+欧美房,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+【女神金】60帧极致蓝光刀刀陪看,http://159.75.85.63:35455/douyu/747764
+【女神金】60帧极致蓝光刀刀陪看,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
+
+斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
+斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
+斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
+贝爷影厅,http://159.75.85.63:35455/douyu/252802
+贝爷max,http://159.75.85.63:35455/douyu/4332
+冰冰经典,http://159.75.85.63:35455/douyu/74374
+凌儿影院,http://159.75.85.63:35455/douyu/1377142
+豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+豆瓣高分,http://tc-tct.douyucdn2.cn/dyliveflv3a/8770422rz326KtjP.flv?wsAuth=e3f0f02dd7bf57be4a27a4968d2b325a&token=app-androidxlv-0-8770422-e168dc19fd264214b60d73bc1d785534bac01ff0e6a57af0&logo=0&expire=0&did=7ca5bf6f-c0e9-43bf-ba1e-c9cb42849af2&ver=2.6.1&pt=1&st=3&sid=388974548&um=0&mcid2=0&origin=tct&mix=0&isp=
+
+译制电影,http://159.75.85.63:35455/douyu/2436390
+
+刘德华电影, http://159.75.85.63:35455/douyu/2516864
+华语房,http://159.75.85.63:35455/douyu/85894
+粤语房,http://159.75.85.63:35455/douyu/6566671
+港产搞笑,http://8.137.57.240:81/hy.php?url=11601960
+港产搞笑（外网）, http://epg.112114.xyz/huya/11601960
+
+喜剧电影专场,http://159.75.85.63:35455/douyu/9292492
+爱喜剧,http://182.148.204.39:6666/udp/239.93.42.9:5140
+星爷影院1,http://159.75.85.63:35455/douyu/122402
+星爷影院2,http://8.137.57.240:81/hy.php?url=11342412
+喜剧电影笑不停,http://159.75.85.63:35455/douyu/10298856
+中国喜剧力量,http://159.75.85.63:35455/douyu/9403781
+
+爆笑电影解说,http://tc-tct.douyucdn2.cn/dyliveflv3/2660125r7FOkTH9Y.flv?wsAuth=de298b009f547fb998bfc130324473d5&token=app-androidxlv-0-2660125-637ca92f6248912e0848bd058f892d13e1cbaba36a05eba4&logo=0&expire=0&did=dc96dddd-5d75-4501-80ce-b21242a54ea7&ver=2.6.1&pt=1&st=3&sid=388914351&um=0&mcid2=0&origin=tct&mix=0&isp=
+爆笑电影解说,http://openhls-tct.douyucdn2.cn/dyliveflv3a/2660125rylKiPSIc_2000.m3u8?txSecret=abd829def702d4bed20740579588f99c&txTime=65e5de0a&token=cpn-androidmpro-0-2660125-70b2d38b6e843f64fde2a341aad43d03&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=382355545
+
+
+「轮播」经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
+经典小品,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rfpuXCSYb_2000.m3u8?txSecret=9ee73153d83f7284b1397daf316851d0&txTime=65f03c0f&token=cpn-androidmpro-0-9067836-7099612c8c53f63c58d1032612d06525&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624476
+
+相声小品,http://110.72.78.38:808/hls/1025/index.m3u8
+下饭剧,http://159.75.85.63:35455/douyu/11751004
+【神剧】经典神剧,http://159.75.85.63:35455/douyu/3700024
+电视剧,http://159.75.85.63:35455/douyu/7623292
+港剧,http://159.75.85.63:35455/douyu/5061550
+
+
+
 
 我的影视,#genre#
 美亚电影台（粤语）,mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
@@ -235,68 +293,26 @@ failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
-
 StarMovies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 DisneyInternational,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-                    
-欧美,http://mmitv.top/test/douyu.php?id=36337
-欧美房,http://mmitv.top/test/douyu.php?id=20415
-欧美房,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-【女神金】60帧极致蓝光刀刀陪看,http://mmitv.top/test/douyu.php?id=747764
-【女神金】60帧极致蓝光刀刀陪看,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
-
-斗鱼4k电影,http://mmitv.top/test/douyu.php?id=9249162
-斗鱼4k电影,http://mmitv.top/test/douyu.php?id=9249162
-斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
-贝爷影厅,http://mmitv.top/test/douyu.php?id=252802
-贝爷max,http://mmitv.top/test/douyu.php?id=4332
-冰冰经典,http://mmitv.top/test/douyu.php?id=74374
-凌儿影院,http://mmitv.top/test/douyu.php?id=1377142
-豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
-
+              
 CCTV6,http://mgsp-tx.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8
 CCTV6,http://104.233.187.210/iptv/ysp.php?name=CCTV6
 CCTV6,http://123.108.110.146/182.php?id=5
-
-译制电影,http://mmitv.top/test/douyu.php?id=2436390
-华语房,http://mmitv.top/test/douyu.php?id=85894
-粤语房,http://mmitv.top/test/douyu.php?id=6566671
-
 chc家庭,http://61.185.200.213:55555/rtp/239.112.205.205:5140
 chc家庭,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 chc,http://61.185.200.213:55555/rtp/239.112.205.206:5140
 chc,http://221.2.36.34:8888/newlive/live/hls/56/live.m3u8
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 chc动作,http://61.185.200.213:55555/rtp/239.112.205.207:5140
 chc动作,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
 NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 
-
-喜剧电影专场,http://mmitv.top/test/douyu.php?id=9292492
-爱喜剧,http://182.148.204.39:6666/udp/239.93.42.9:5140
-星爷影院1,http://mmitv.top/test/douyu.php?id=122402
-星爷影院2,http://8.137.57.240:81/hy.php?url=11342412
-开心麻花,http://8.137.57.240:81/hy.php?url=11601968
-喜剧电影笑不停,http://mmitv.top/test/douyu.php?id=10298856
-
-中国喜剧力量,http://mmitv.top/test/douyu.php?id=9403781
-爆笑电影解说,http://openhls-tct.douyucdn2.cn/dyliveflv3a/2660125rylKiPSIc_2000.m3u8?txSecret=abd829def702d4bed20740579588f99c&txTime=65e5de0a&token=cpn-androidmpro-0-2660125-70b2d38b6e843f64fde2a341aad43d03&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=382355545
-「轮播」经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-
-经典小品,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9067836rfpuXCSYb_2000.m3u8?txSecret=9ee73153d83f7284b1397daf316851d0&txTime=65f03c0f&token=cpn-androidmpro-0-9067836-7099612c8c53f63c58d1032612d06525&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=383624476
-
-相声小品,http://110.72.78.38:808/hls/1025/index.m3u8
-
-赵本山,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9817716rnyXHrLC7_2000.m3u8?txSecret=b6c76867fb7db1bbb4ec77e875337db8&txTime=65f03a28&token=cpn-androidmpro-0-9817716-c3cb3d5f4613b58230e7e7730640efee&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=385385291
-
-宋小宝,http://openhls-tct.douyucdn2.cn/dyliveflv3/9817729rxkZJQa6A_2000.m3u8?txSecret=9b78c90233c69b0ff2a0ae0dfa3ecaaf&txTime=65f03b25&token=cpn-androidmpro-0-9817729-1ce3c4f0dacaa1eb616a40791b79fde7&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=384098992
-
-
 风云剧场,http://104.233.187.210/iptv/ysp.php?name=CCTV风云剧场
 风云剧场,http://61.185.200.213:55555/rtp/239.111.205.66:5140
-
 第一剧场,http://104.233.187.210/iptv/ysp.php?name=CCTV第一剧场
 第一剧场,http://61.185.200.213:55555/rtp/239.111.205.65:5140
 cctv8,http://104.233.187.210/iptv/ysp.php?name=CCTV8
@@ -305,13 +321,7 @@ cctv8,http://111.20.35.107:6610/000000001000/1000000001000003736/index.m3u8
 
 eztv1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
-下饭剧,http://mmitv.top/test/douyu.php?id=11751004
-电视剧,http://mmitv.top/test/douyu.php?id=7623292
-港剧,http://mmitv.top/test/douyu.php?id=5061550
-【神剧】经典神剧,http://mmitv.top/test/douyu.php?id=3700024
 爱奇艺,http://104.233.187.210/live/smt/smt135.php?id=Qiyi
-
-
 
 电影,#genre#
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
@@ -350,9 +360,8 @@ HBO comedy,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/4192
 综艺,#genre#
 陈翔六点半,http://8.137.57.240:81/hy.php?url=11274154
 今晚80后,http://8.137.57.240:81/hy.php?url=11352961
-吐槽大会,http://mmitv.top/pltv/huya.php?id=21059555
-吐槽大会,http://8.137.57.240:81/hy.php?url=21059555
-脱口秀大会,http://8.137.57.240:81/hy.php?url=11352875
+吐槽大会,http://8.137.57.240:81/hy.php?url=11352875
+脱口秀大会,
 奔跑吧兄弟,http://8.137.57.240:81/hy.php?url=29465870
 咱们穿越吧,http://8.137.57.240:81/hy.php?url=11352907
 
@@ -434,7 +443,7 @@ CCTV14-少儿,http://lhq-cctv.8866.org:18181/tsfile/live/0014_1.m3u8
 优漫卡通,https://epg.pw/stream/1b4155ed8113b73f664d947a024a12acce9b5d43d0911fe05bfa051640987666.m3u8
 武汉少儿,https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8
 浙江少儿,https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8
-少儿经典,http://mmitv.top/test/douyu.php?id=7360064
+少儿经典,http://159.75.85.63:35455/douyu/7360064
 「电影」棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 「电影」熊出没•变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 「电影」熊出没•过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
@@ -533,4 +542,11 @@ Boomerang,P2p://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
 2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+
+
+
+
+
+
 
