@@ -3,7 +3,6 @@
 英字频道,#genre#
 failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
-
 flix,http://89.187.177.137:8081/&FLIX/index.m3u8
 
 clarity4k,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
@@ -41,9 +40,6 @@ Lifetime，http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 		
 pocketwatch,https://pocketwatch-vizio.amagi.tv/playlist.m3u8
-
-
-
 BBCAmerica,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
@@ -55,13 +51,8 @@ documentary+, https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 ask1,https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
 
 ask2,https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
-
-
 特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
 美国之声,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
-
-
 
 moonbug,https://dfarwvcea6jpc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-Canada-prod/playlist.m3u8
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
@@ -82,20 +73,12 @@ A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 TBS, http://143.244.60.30/TBS/index.m3u8
 pop, http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
-
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-
 HBOWest,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-
 ParamountNetwork,http://170.254.18.106/PARAMOUNT/index.m3u8
-
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
-
 CinemaxEast,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
-
 
 我的影视,#genre#
 韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
