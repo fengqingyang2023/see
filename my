@@ -4,6 +4,8 @@
 failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
 
+flix,http://89.187.177.137:8081/&FLIX/index.m3u8
+
 clarity4k,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -28,17 +30,19 @@ journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c
 xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
-Lifetime，http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
-		
-pocketwatch,https://pocketwatch-vizio.amagi.tv/playlist.m3u8
-
 nba tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 fifa, https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
 stadium, https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
 sny,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 bbc home, https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+
+Lifetime，http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
+		
+pocketwatch,https://pocketwatch-vizio.amagi.tv/playlist.m3u8
+
+
 
 BBCAmerica,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
@@ -92,170 +96,8 @@ CinemaxEast,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
-新闻,#genre#
-cna,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
-cgtn,http://104.233.187.210/iptv/ysp.php?name=CGTN
-cgtn,https://live.cgtn.com/1000/prog_index.m3u8?WithCaption
-cgtn,http://livedoc.cgtn.com/1000d/prog_index.m3u8
-euronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-euronews,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-bricks,https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-CCTV13,http://104.233.187.210/iptv/ysp.php?name=CCTV13
-CCTV13,https://pi.0472.org/tv/mzt.php?auth=231110
-
-
-我的,#genre#
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8  
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-clarity,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-clarity,https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-
-动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
-
-bbcearth,http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-bbcearth,http://104.233.187.210/live/smt/smt135.php?id=bbcearth_twn
-
-discoveryasia,http://104.233.187.210/live/smt/smt135.php?id=discoverytwn_twn
-DiscoveryAsia,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-DiscoveryAsia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-DiscoveryAsia,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-
-
-DiscoveryHD,http://104.233.187.210/live/smt/smt135.php?id=discoverych_twn
-DiscoveryHD,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-
-
-dmax,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-
-
-HGTV居家乐活,http://104.233.187.210/live/smt/smt135.php?id=HGTV
-
-bbclifestyle,http://104.233.187.210/live/smt/smt135.php?id=bbclifestyle_twn
-
-TLC,http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
-TLC,http://104.233.187.210/live/smt/smt135.php?id=tlc_twn
-
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
-靖天国际,http://104.233.187.210/live/smt/smt135.php?id=jingtianintl_twn
-靖天国际,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-靖天国际,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-靖天国际,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-
-明珠台,http://104.233.187.210/live/smt/smt135.php?id=pearl_twn
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
-明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
-明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-
-ics,http://ygbh.live/Best.php?id=shics
-ics,https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.ctv
-ics,http://58.39.132.12:4022/udp/239.45.1.127:5140
-
-Taiwan+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-RTDocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-afn,https://epg.pw/stream/dbb16983dc2f15659d9e7ce315a7db0f86a8f6d2d690ba3bb8e078807174fff9.ctv
-
-afn,http://104.233.187.210/live/smt/smt135.php?id=afc_twn
-afn,https://epg.pw/stream/4f55751e9b90f35c0f93e348b0c6738edaf5580687bd732933fbe6ea44e1c7fd.ctv
-
-foodnetwork,https://epg.pw/stream/f6882c53c2bfcf3adcf358349b1e99ed8f61e722874f031ea66a4f4d0befbb6e.ctv
-
-ChanneU,http://104.233.187.210/live/smt/smt135.php?id=ChannelU
-
-Channel5,http://104.233.187.210/live/smt/smt135.php?id=Channel5HD
-
-Channel8,http://104.233.187.210/live/smt/smt135.php?id=Channel8HD
-
-KIX,mitv://135.148.104.228:19806/3f7be3ad31504c9fa358e3fe583fac0a
-
-sonyhd,http://198.16.100.90:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
-sonyhd,http://104.233.187.210/live/smt/smt135.php?id=SetOne
-sonyhd,http://198.16.100.90:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
-
-kbsworld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-
-
-
-flix,http://89.187.177.137:8081/&FLIX/index.m3u8
-
-cinemaworld,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683146
-cinemaworld,https://epg.pw/stream/7506e1994d0f220b646fc28c88df3724b7154aea454aa98a48c5f17f1c08314a.ctv
-
-
-
-petcollect,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-
-afv,https://d1u25cmbxee87d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV-Canada2-prod/samsung.m3u8
-afv,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
-
-failarmy,http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
-failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-
-
-漫游世界,http://39.134.136.161:6610/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3$ITV
-漫游世界,http://39.134.136.161:6610/000000001000/2000000004000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3$ITV
-
-斗鱼影视,#genre#
-欧美,http://159.75.85.63:35455/douyu/36337
-欧美房,http://159.75.85.63:35455/douyu/20415
-欧美房,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-【女神金】60帧极致蓝光刀刀陪看,http://159.75.85.63:35455/douyu/747764
-【女神金】60帧极致蓝光刀刀陪看,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
-
-斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
-斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
-斗鱼4k电影,http://159.75.85.63:35455/douyu/9249162
-贝爷影厅,http://159.75.85.63:35455/douyu/252802
-贝爷max,http://159.75.85.63:35455/douyu/4332
-冰冰经典,http://159.75.85.63:35455/douyu/74374
-凌儿影院,http://159.75.85.63:35455/douyu/1377142
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-豆瓣高分,http://tc-tct.douyucdn2.cn/dyliveflv3a/8770422rz326KtjP.flv?wsAuth=e3f0f02dd7bf57be4a27a4968d2b325a&token=app-androidxlv-0-8770422-e168dc19fd264214b60d73bc1d785534bac01ff0e6a57af0&logo=0&expire=0&did=7ca5bf6f-c0e9-43bf-ba1e-c9cb42849af2&ver=2.6.1&pt=1&st=3&sid=388974548&um=0&mcid2=0&origin=tct&mix=0&isp=
-
-译制电影,http://159.75.85.63:35455/douyu/2436390
-
-刘德华电影, http://159.75.85.63:35455/douyu/2516864
-华语房,http://159.75.85.63:35455/douyu/85894
-粤语房,http://159.75.85.63:35455/douyu/6566671
-
-
-
-
-综合电影15,#genre#
-综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
-综合频道2,http://zby.xjqxz.top/zh02/live.m3u8
-综合频道3,http://zby.xjqxz.top/zh03/live.m3u8
-综合频道4,http://zby.xjqxz.top/zh04/live.m3u8
-综合频道5,http://zby.xjqxz.top/zh05/live.m3u8
-综合频道6,http://zby.xjqxz.top/zh06/live.m3u8
-综合频道7,http://zby.xjqxz.top/zh07/live.m3u8
-综合频道8,http://zby.xjqxz.top/zh08/live.m3u8
-综合频道9,http://zby.xjqxz.top/zh09/live.m3u8
-综合频道10,http://zby.xjqxz.top/zh10/live.m3u8
-综合频道11,http://zby.xjqxz.top/zh11/live.m3u8
-综合频道12,http://zby.xjqxz.top/zh12/live.m3u8
-综合频道13,http://zby.xjqxz.top/zh13/live.m3u8
-综合频道14,http://zby.xjqxz.top/zh14/live.m3u8
-综合频道15,http://zby.xjqxz.top/zh15/live.m3u8
-
-搞笑,#genre#
-中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
-港产搞笑,http://8.137.57.240:81/hy.php?url=11601960
-港产搞笑（外网）, http://epg.112114.xyz/huya/11601960
 
 我的影视,#genre#
-StarMovies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-starchannel, http://170.254.18.106/STAR/index.m3u8
-DisneyInternational,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-        
-好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
-4K影院,http://zby.xjqxz.top/4kyy/live.m3u8
-
-美亚电影台（粤语）,mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
-
 韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
@@ -263,52 +105,8 @@ movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazon
 
 
 
-CCTV6,http://zby.xjqxz.top/ysptest/cctv/cctv6.m3u8
-CCTV6,http://mgsp-tx.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8
-CCTV6,http://104.233.187.210/iptv/ysp.php?name=CCTV6
-CCTV6,http://123.108.110.146/182.php?id=5
-周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
-李连杰专辑轮播,http://zby.xjqxz.top/lljdy/live.m3u8
-成龙专辑轮播,http://zby.xjqxz.top/cldy/live.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
-NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-
-eztv1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
 
-yuechan电影,#genre#
-好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-东森洋片,http://104.233.187.210/live/smt/smt135.php?id=ettvwestern
-东森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-axn,http://104.233.187.210/live/smt/smt135.php?id=axn_twn
-
-CinemaxEast,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816 
-HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848 
-HBOWest,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849 
-HBOPlus,http://170.254.18.106/HBO_PLUS/index.m3u8 
-HBO2,http://170.254.18.106/HBO2/index.m3u8 
-HBOFamily,http://170.254.18.106/HBO_FAMILY/index.m3u8 
-HBO Family,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419289
-HBOSignature,http://170.254.18.106/HBO_SIG/index.m3u8
-AMC最爱电影,http://170.254.18.106/AMC/index.m3u8 
-
-
-
-
-电影外网,#genre#
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-HITS Movies,P2p://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
-CINEMAX,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418077
-
-WARNER TV,P2p://generationnexxxt.com:19806/d4639fbf11424dcf8f2614071d57b567
-影迷数位电影台,P2p://generationnexxxt.com:19806/ff075ec54a154e2bb7d95b92c89dff59
-SHOWCASE MOVIES,P2p://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
-CatchPlay电影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
-
-HBO强档巨献,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO原创巨献,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419291
-HBO comedy,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419288
 
 
 
