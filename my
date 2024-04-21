@@ -11,7 +11,7 @@ lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 natgeo, http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 bbcearth, https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-纪录片1,http://zby.xjqxz.top/jlp1/live.m3u8
+
 
 nasa,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd?WithCaption
 
@@ -90,7 +90,7 @@ movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazon
 
 
 外网,#genre#
-日本",歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 K-POP(韩国),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 
@@ -98,9 +98,11 @@ beinsports xtra football,https://service-stitcher.clusters.pluto.tv/stitch/hls/c
 
 TV FOX Sports,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
 
+明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+
 上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+
 
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8 
 
