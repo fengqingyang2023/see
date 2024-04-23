@@ -1,7 +1,8 @@
 
 
 英字频道,#genre#
-failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
 carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
 flix,http://89.187.177.137:8081/&FLIX/index.m3u8
 
@@ -49,6 +50,8 @@ verylocal,https://lnc-khbs.tubi.video/playlist.m3u8
 historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
 
 documentary+, https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+
+thechat,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
 
 ask1,https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
 
