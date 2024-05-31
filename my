@@ -4,8 +4,12 @@
 euronews,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
-特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+gbnews,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+aujaz,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 美国之声,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
 
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
@@ -91,6 +95,8 @@ CinemaxEast,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 我的影视,#genre#
+kix,mitv://135.148.104.228:19806/3f7be3ad31504c9fa358e3fe583fac0a
+kbsworld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
