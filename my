@@ -1,6 +1,12 @@
 
 
 英字频道,#genre#
+euronews,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
+特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+美国之声,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
@@ -56,8 +62,7 @@ thechat,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
 ask1,https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
 
 ask2,https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
-特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-美国之声,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+
 
 moonbug,https://dfarwvcea6jpc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-Canada-prod/playlist.m3u8
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
