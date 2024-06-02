@@ -2,10 +2,10 @@
 
 英字频道,#genre#
 nhknews,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 euronews,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
-gbnews,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 aujaz,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 美国之声,https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
@@ -81,7 +81,6 @@ redbox,https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/pl
 
 mytimemovie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-movies,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 me tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
 we tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
 A&E, http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
