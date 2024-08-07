@@ -16,27 +16,21 @@ newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
-carolburnettshow,https://carolburnett-roku.amagi.tv/playlist.m3u8?WithCaption
-flix,http://89.187.177.137:8081/&FLIX/index.m3u8
-
 clarity4k,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 natgeo, http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-bbcearth, https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 
 nasa,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd?WithCaption
 
 
-BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-gusto,https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8#e7516b5aafd55ab004b55bb4482e9c8aa315d58a6dc8e14bf59f524b206ac07d
-
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
-weather, http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-tastemadetravel,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+
+weather, http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
 
 journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ugl9mwcgz39n-prod/dist/samsungtv-canada/252/hls/master/playlist.m3u8
 
@@ -44,32 +38,20 @@ xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 nba tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-fifa, https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
 fightbox,http://stream01.vnet.am/Fightbox/mono.m3u8
 
-stadium, https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
 sny,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-bbc home, https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 
-Lifetime，http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 		
-pocketwatch,https://pocketwatch-vizio.amagi.tv/playlist.m3u8
-BBCAmerica,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
 
 verylocal,https://lnc-khbs.tubi.video/playlist.m3u8
 
 historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
-
-documentary+, https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
-
-thechat,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
-
-ask1,https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
-
-ask2,https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
 
 
 moonbug,https://dfarwvcea6jpc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-Canada-prod/playlist.m3u8
