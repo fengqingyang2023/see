@@ -1,4 +1,11 @@
 
+韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
+韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
+hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+
+
+
 nhknews,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -13,71 +20,46 @@ newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-RiffTrax,https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
-
 
 clarity4k,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
-Love the Planet,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
 lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-Samsung Wild Life,https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 王朝-自然-纪录片,https://lunbo.freetv.top/yy/1354930927
 natgeo, http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-bbcearth, https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 
 nasa,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd?WithCaption
 
 
-BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-gusto,https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8#e7516b5aafd55ab004b55bb4482e9c8aa315d58a6dc8e14bf59f524b206ac07d
-
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 weather, http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-tastemadetravel,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 
 journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ugl9mwcgz39n-prod/dist/samsungtv-canada/252/hls/master/playlist.m3u8
 
 xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-
-bbc home, https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-
-Homes Under the Hammer,https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
-
-Lifetime，http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
-
+wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 
 pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 		
-pocketwatch,https://pocketwatch-vizio.amagi.tv/playlist.m3u8
-BBCAmerica,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
 
-soreal,https://i.mjh.nz/SamsungTVPlus/GBBD1100009M9.m3u8
 
 verylocal,https://lnc-khbs.tubi.video/playlist.m3u8
 
 historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
 
-documentary+, https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 
-thechat,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
-tedtalks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 
 gameshow_networkw,https://epg.pw/stream/6457ddcc11f8983874ba6801655786e481facc33e36d6e5b608a53833b7b70ad.m3u8
 world_fishing_network,https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8
 redbull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 nba tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-fifa, https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 fifa+,https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
-stadium, https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
 sny,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 wwe_network,https://epg.pw/stream/6ac6c9a90c1651a7d06c3a3ba0bc08c002b5b56507d678fa50060f47f8b55a1f.m3u8
 bally_sports_north,https://epg.pw/stream/d5a298294459eaa9021a9cc47b8b9ddd07b0280e9ad2bfb5504bdcdd4558611a.m3u8
@@ -116,11 +98,6 @@ A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 CinemaxEast,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
-韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
-韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
-hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
 
 
